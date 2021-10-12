@@ -6,6 +6,14 @@ Mingyuan Fan, Shenqi Lai, Junshi Huang, Xiaoming Wei, Zhenhua Chai, Junfeng Luo,
 
 In CVPR 2021.
 
+## 实验记录
+
+|来源|road|sidewalk|building|wall|fence|*pole*|traffic light|*traffic sign*|vegetation|terrain|sky|person|rider|car|truck|bus|train|motorcycle|bicycle|数据集|更新时间
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+论文结果|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
+预训练模型|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
+自行复现结果|0.9823|0.8531|0.9230|0.5602|0.5906|0.6073|0.6932|0.7795|0.9193|0.6234|0.9461|0.8025|0.6031|0.9495|0.8121|0.8781|0.7508|0.6033|0.7604
+
 ## Overview
 
 <p align="center">
