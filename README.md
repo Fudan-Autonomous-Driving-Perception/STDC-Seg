@@ -7,12 +7,17 @@ Mingyuan Fan, Shenqi Lai, Junshi Huang, Xiaoming Wei, Zhenhua Chai, Junfeng Luo,
 In CVPR 2021.
 
 ## 实验记录
-
+### cityscape  
 |来源|mIOU(val1)|__pole__|__traffic sign__|FPS|更新时间
 |:-:|:-:|:-:|:-:|:-:|:-:
 论文结果|77.0|-|-|97.0|2021.10.12
 预训练模型|77.27|-|-|-|2021.10.12
 自行复现结果|75.36|60.73|77.95|-|2021.10.12
+
+### 百度
+|来源|mIOU(val1)|__减速带__|__路面标识__|FPS|更新时间
+|:-:|:-:|:-:|:-:|:-:|:-:
+预训练模型|-|-|-|-|2021.10.14
 
 ## Overview
 
